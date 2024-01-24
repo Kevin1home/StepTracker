@@ -9,7 +9,7 @@ public class StepTracker {
         int stepsQnt = scanner.nextInt();
 
         System.out.println("За какой месяц хотите занести:");
-        String[] months = {"Январь" , "Февраль" , "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"};
+        String[] months = {"Январь" , "Февраль" , "Март"};
         for (int i = 0; i < months.length; i++) {
             System.out.println((i + 1) + "-" + months[i]);
         }
