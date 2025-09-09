@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ebb2764-6d17-4844-84cf-ecc95c0a77f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StepTrackerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/Sprint1_RunCounter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StepTracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/MonthData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MonthData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/StepTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StepTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/java-sprint1-hw.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32SC7gI80sDkW7TeSGAuTUcJhOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.StepTrackerApp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kevin/Desktop/Java_Learning/StepTracker"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\Desktop\Java_Learning\StepTracker" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ebb2764-6d17-4844-84cf-ecc95c0a77f7" name="Changes" comment="" />
+      <created>1757404420971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757404420971</updated>
+    </task>
+    <servers />
+  </component>
+</project>
