@@ -21,14 +21,4 @@ public class MonthData {
     public int[] getMonthData(int month) {
         return stepsData[month - 1];
     }
-
-    int counterStatisticMonth(int month) {
-        int sumStepsAskedMonth = 0;
-        int[] askedMonth = stepsData [month - 1];
-
-        for (int j : askedMonth) {
-            sumStepsAskedMonth += j;
-        }
-        return sumStepsAskedMonth;
-    }
 }

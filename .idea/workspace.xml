@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebb2764-6d17-4844-84cf-ecc95c0a77f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StatisticsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StepTrackerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/Sprint1_RunCounter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StepTracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/MonthData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MonthData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/Sprint1_RunCounter/src/StepTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StepTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sprint1-hw-main/java-sprint1-hw.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="1ebb2764-6d17-4844-84cf-ecc95c0a77f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
